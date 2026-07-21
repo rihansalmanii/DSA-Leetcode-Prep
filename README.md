@@ -56,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
