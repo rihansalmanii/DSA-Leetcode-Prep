@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
