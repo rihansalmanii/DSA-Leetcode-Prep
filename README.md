@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2270-number-of-ways-to-split-array) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2270-number-of-ways-to-split-array) |
 ## Hash Table
