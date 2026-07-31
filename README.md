@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0009-palindrome-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
 |  |
