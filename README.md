@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sliding Window
