@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sliding Window
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 | [2390-removing-stars-from-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
