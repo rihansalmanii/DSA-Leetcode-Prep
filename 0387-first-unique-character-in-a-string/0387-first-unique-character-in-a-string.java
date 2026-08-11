@@ -1,6 +1,5 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int result = -1;
         HashMap <Character, Integer> map = new HashMap<>();
 
         for(int i = 0; i<s.length(); i++) {
@@ -9,10 +8,9 @@ class Solution {
 
         for(int i = 0; i<s.length(); i++) {
             if(map.get(s.charAt(i)) == 1) {
-                result = i;
-                break;
+                return i;
             }
         }       
-        return result;
+        return -1;
     }
 }
