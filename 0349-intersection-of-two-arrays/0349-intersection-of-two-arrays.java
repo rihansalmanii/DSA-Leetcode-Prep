@@ -8,8 +8,7 @@ class Solution {
         }
 
         for(int n: nums2) {
-            if(set.contains(n)) list.add(n);
-            set.remove(n);
+            if(set.remove(n)) list.add(n);
         }
 
         int[] result = new int[list.size()];
