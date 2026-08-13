@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0242-valid-anagram) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
