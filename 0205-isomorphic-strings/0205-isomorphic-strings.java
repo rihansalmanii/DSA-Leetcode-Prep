@@ -9,8 +9,7 @@ class Solution {
                 if(map.get(s.charAt(i)) != t.charAt(i)) {
                     return false;
                 }
-            }
-            if(!map.containsKey(s.charAt(i))) {
+            } else {
                 if(used.contains(t.charAt(i))) return false;
             }
             
