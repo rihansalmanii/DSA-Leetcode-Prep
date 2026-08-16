@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0594-longest-harmonious-subsequence) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
