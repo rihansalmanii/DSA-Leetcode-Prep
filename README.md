@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0268-missing-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0242-valid-anagram) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
