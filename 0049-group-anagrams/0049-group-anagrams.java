@@ -10,8 +10,8 @@ class Solution {
 
             map.computeIfAbsent(sorted, k -> new ArrayList<>()).add(strs[i]);
         }
-        
-        return new ArrayList<>(map.values());
+
+        return new ArrayList(map.values());
         
     }
 }
