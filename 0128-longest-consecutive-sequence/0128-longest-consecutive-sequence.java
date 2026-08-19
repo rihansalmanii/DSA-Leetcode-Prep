@@ -13,9 +13,9 @@ class Solution {
                 sequence = 1; 
                 int current = n;
 
-                while(set.contains(n + 1)) {
+                while(set.contains(current + 1)) {
                     sequence++;
-                    n++;
+                    current++;
                 }
             }
 
