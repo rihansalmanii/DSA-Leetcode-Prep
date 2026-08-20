@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1480-running-sum-of-1d-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
