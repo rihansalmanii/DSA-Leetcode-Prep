@@ -1,5 +1,6 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
+
         HashSet<Integer> set = new HashSet<>();
         int maxLen = 0;
         int sequence = 1;
