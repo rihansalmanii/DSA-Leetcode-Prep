@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
