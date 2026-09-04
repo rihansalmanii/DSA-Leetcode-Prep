@@ -9,9 +9,8 @@ public class Solution extends VersionControl {
 
         while(start <= end) {
             int version = start + (end - start)/2;
-            boolean isBad = isBadVersion(version);
-
-            if(isBad) {
+            
+            if(isBadVersion(version)) {
                 firstBad = Math.min(version, firstBad);
                 end = version - 1;
             }
