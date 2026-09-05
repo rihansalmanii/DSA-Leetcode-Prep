@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0268-missing-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0349-intersection-of-two-arrays) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
