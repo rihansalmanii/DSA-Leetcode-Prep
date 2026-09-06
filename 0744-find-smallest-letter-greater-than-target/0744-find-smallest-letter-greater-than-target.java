@@ -16,6 +16,6 @@ class Solution {
             }
         }
 
-        return result != -1 ? letters[result] :letters[0];
+        return result == -1 ? letters[0] : letters[result];
     }
 }
