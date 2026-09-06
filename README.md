@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
