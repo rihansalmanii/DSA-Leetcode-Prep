@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0367-valid-perfect-square) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3870-count-commas-in-range](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
