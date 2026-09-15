@@ -12,6 +12,7 @@ class Solution {
                 end = mid;
             }
         }
+
         return nums[start];
     }
 }
