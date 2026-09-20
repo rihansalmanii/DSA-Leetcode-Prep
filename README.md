@@ -2,7 +2,7 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics 
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0389-find-the-difference) |
 | [2390-removing-stars-from-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
