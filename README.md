@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rihansalmanii/DSA-Leetcode-Prep/tree/master/0268-missing-number) |
